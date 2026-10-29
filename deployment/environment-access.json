@@ -1,0 +1,6 @@
+{
+  "required_domain_additions": ["api.github.com", "5y8nwmgws4-del.github.io"],
+  "purpose": "Enable and monitor GitHub Pages, then verify the published dashboard.",
+  "preserve_existing_domains": true,
+  "draft_save_status": "not_saved_draft_not_editable"
+}
